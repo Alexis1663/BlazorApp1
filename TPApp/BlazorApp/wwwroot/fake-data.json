@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "displayname": "Marqet",
+    "name": "marqet",
+    "stacksize": 40,
+    "maxdurability": 114,
+    "enchantcategories": [
+      "armor_head",
+      "armor_chest"
+    ],
+    "repairwith": [
+      "acacia_planks"
+    ],
+    "createddate": "2015-01-09",
+    "updateddate": null
+  },
+  {
+    "id": 2,
+    "displayname": "Overplex",
+    "name": "overplex",
+    "stacksize": 13,
+    "maxdurability": 123,
+    "enchantcategories": [],
+    "repairwith": [
+      "warped_planks"
+    ],
+    "createddate": "2021-08-28",
+    "updateddate": "2018-02-12"
+  },
+  {
+    "id": 3,
+    "displayname": "Golistic",
+    "name": "golistic",
+    "stacksize": 25,
+    "maxdurability": 38,
+    "enchantcategories": [
+      "armor_head"
+    ],
+    "repairwith": [
+      "spruce_planks"
+    ],
+    "createddate": "2022-07-25",
+    "updateddate": "2018-12-19"
+  },
+  {
+    "id": 4,
+    "displayname": "Phormula",
+    "name": "phormula",
+    "stacksize": 26,
+    "maxdurability": 62,
+    "enchantcategories": [
+      "vanishable",
+      "weapon",
+      "armor"
+    ],
+    "repairwith": [
+      "birch_planks",
+      "birch_planks"
+    ],
+    "createddate": "2015-05-26",
+    "updateddate": null
+  },
+  {
+    "id": 5,
+    "displayname": "Cogentry",
+    "name": "cogentry",
+    "stacksize": 46,
+    "maxdurability": 112,
+    "enchantcategories": [
+      "weapon",
+      "weapon"
+    ],
+    "repairwith": [
+      "jungle_planks",
+      "warped_planks"
+    ],
+    "createddate": "2017-05-05",
+    "updateddate": "2018-08-28"
+  },
+  {
+    "id": 6,
+    "displayname": "Lingoage",
+    "name": "lingoage",
+    "stacksize": 18,
+    "maxdurability": 77,
+    "enchantcategories": [
+      "armor",
+      "breakable"
+    ],
+    "repairwith": [
+      "warped_planks",
+      "crimson_planks"
+    ],
+    "createddate": "2015-05-03",
+    "updateddate": null
+  },
+  {
+    "id": 7,
+    "displayname": "Ovation",
+    "name": "ovation",
+    "stacksize": 45,
+    "maxdurability": 28,
+    "enchantcategories": [
+      "breakable",
+      "breakable"
+    ],
+    "repairwith": [
+      "crimson_planks",
+      "dark_oak_planks"
+    ],
+    "createddate": "2015-10-16",
+    "updateddate": null
+  },
+  {
+    "id": 8,
+    "displayname": "Utarian",
+    "name": "utarian",
+    "stacksize": 5,
+    "maxdurability": 16,
+    "enchantcategories": [
+      "armor"
+    ],
+    "repairwith": [],
+    "createddate": "2021-08-19",
+    "updateddate": null
+  },
+  {
+    "id": 9,
+    "displayname": "Imant",
+    "name": "imant",
+    "stacksize": 32,
+    "maxdurability": 16,
+    "enchantcategories": [
+      "armor_chest",
+      "armor_head",
+      "digger"
+    ],
+    "repairwith": [],
+    "createddate": "2020-02-29",
+    "updateddate": "2019-06-24"
+  },
+  {
+    "id": 10,
+    "displayname": "Intergeek",
+    "name": "intergeek",
+    "stacksize": 6,
+    "maxdurability": 63,
+    "enchantcategories": [
+      "vanishable"
+    ],
+    "repairwith": [
+      "acacia_planks"
+    ],
+    "createddate": "2019-03-22",
+    "updateddate": null
+  },
+  {
+    "id": 11,
+    "displayname": "Speedbolt",
+    "name": "speedbolt",
+    "stacksize": 34,
+    "maxdurability": 118,
+    "enchantcategories": [],
+    "repairwith": [
+      "acacia_planks",
+      "spruce_planks"
+    ],
+    "createddate": "2016-09-27",
+    "updateddate": "2021-05-29"
+  },
+  {
+    "id": 12,
+    "displayname": "Isbol",
+    "name": "isbol",
+    "stacksize": 36,
+    "maxdurability": 114,
+    "enchantcategories": [],
+    "repairwith": [],
+    "createddate": "2018-08-13",
+    "updateddate": null
+  },
+  {
+    "id": 13,
+    "displayname": "Furnitech",
+    "name": "furnitech",
+    "stacksize": 57,
+    "maxdurability": 26,
+    "enchantcategories": [],
+    "repairwith": [],
+    "createddate": "2015-11-17",
+    "updateddate": null
+  },
+  {
+    "id": 14,
+    "displayname": "Puria",
+    "name": "puria",
+    "stacksize": 49,
+    "maxdurability": 23,
+    "enchantcategories": [
+      "armor_head"
+    ],
+    "repairwith": [],
+    "createddate": "2018-09-06",
+    "updateddate": null
+  },
+  {
+    "id": 15,
+    "displayname": "Bedder",
+    "name": "bedder",
+    "stacksize": 42,
+    "maxdurability": 71,
+    "enchantcategories": [
+      "armor_chest",
+      "armor_chest",
+      "armor"
+    ],
+    "repairwith": [
+      "oak_planks"
+    ],
+    "createddate": "2021-10-19",
+    "updateddate": "2022-09-29"
+  },
+  {
+    "id": 16,
+    "displayname": "Rodeomad",
+    "name": "rodeomad",
+    "stacksize": 22,
+    "maxdurability": 125,
+    "enchantcategories": [
+      "armor",
+      "weapon"
+    ],
+    "repairwith": [],
+    "createddate": "2016-02-26",
+    "updateddate": "2020-08-14"
+  },
+  {
+    "id": 17,
+    "displayname": "Retrack",
+    "name": "retrack",
+    "stacksize": 43,
+    "maxdurability": 62,
+    "enchantcategories": [
+      "vanishable",
+      "armor_chest",
+      "armor_chest"
+    ],
+    "repairwith": [],
+    "createddate": "2015-06-24",
+    "updateddate": null
+  },
+  {
+    "id": 18,
+    "displayname": "Unia",
+    "name": "unia",
+    "stacksize": 12,
+    "maxdurability": 118,
+    "enchantcategories": [],
+    "repairwith": [],
+    "createddate": "2014-03-19",
+    "updateddate": null
+  },
+  {
+    "id": 19,
+    "displayname": "Portaline",
+    "name": "portaline",
+    "stacksize": 45,
+    "maxdurability": 75,
+    "enchantcategories": [
+      "vanishable",
+      "vanishable"
+    ],
+    "repairwith": [],
+    "createddate": "2017-08-22",
+    "updateddate": "2017-07-19"
+  },
+  {
+    "id": 20,
+    "displayname": "Syntac",
+    "name": "syntac",
+    "stacksize": 15,
+    "maxdurability": 93,
+    "enchantcategories": [],
+    "repairwith": [],
+    "createddate": "2016-05-23",
+    "updateddate": null
+  }
+]
+]
