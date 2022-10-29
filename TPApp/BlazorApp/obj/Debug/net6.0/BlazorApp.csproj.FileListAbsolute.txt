@@ -25,3 +25,45 @@ U:\2ème année\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\refint\BlazorApp.dll
 U:\2ème année\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.pdb
 U:\2ème année\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.genruntimeconfig.cache
 U:\2ème année\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\ref\BlazorApp.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\appsettings.json
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\BlazorApp.exe
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\BlazorApp.deps.json
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\BlazorApp.runtimeconfig.json
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\BlazorApp.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\BlazorApp.pdb
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Blazorise.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Blazorise.Bootstrap5.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Blazorise.DataGrid.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.RazorAssemblyInfo.cache
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.RazorAssemblyInfo.cs
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.csproj.CopyComplete
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\refint\BlazorApp.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.pdb
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\BlazorApp.genruntimeconfig.cache
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\obj\Debug\net6.0\ref\BlazorApp.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Blazorise.Bootstrap.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Blazorise.Icons.FontAwesome.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\TPApp\BlazorApp\bin\Debug\net6.0\Blazored.LocalStorage.dll

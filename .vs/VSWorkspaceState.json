@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TPApp",
+    "\\TPApp\\BlazorApp"
   ],
-  "SelectedNode": "\\C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\Blazor",
+  "SelectedNode": "\\TPApp\\BlazorApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
