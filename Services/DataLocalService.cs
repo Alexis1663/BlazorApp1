@@ -83,5 +83,75 @@ namespace BlazorApp.Services
 
             return (await _localStorage.GetItemAsync<Item[]>("data")).Skip((currentPage - 1) * pageSize).Take(pageSize).ToList();
         }
+
+        public async Task<Item> GetById(int id)
+        {
+            // Get the current data
+            var currentData = await _localStorage.GetItemAsync<List<Item>>("data");
+
+            // Get the item int the list
+            var item = currentData.FirstOrDefault(w => w.Id == id);
+
+            // Check if item exist
+            if (item == null)
+            {
+                throw new Exception($"Unable to found the item with ID: {id}");
+            }
+
+            return item;
+        }
+
+        public async Task Update(int id, ItemModel model)
+        {
+            // Get the current data
+            var currentData = await _localStorage.GetItemAsync<List<Item>>("data");
+
+            // Get the item int the list
+            var item = currentData.FirstOrDefault(w => w.Id == id);
+
+            // Check if item exist
+            if (item == null)
+            {
+                throw new Exception($"Unable to found the item with ID: {id}");
+            }
+
+            // Save the image
+            var imagePathInfo = new DirectoryInfo($"{_webHostEnvironment.WebRootPath}/images");
+
+            // Check if the folder "images" exist
+            if (!imagePathInfo.Exists)
+            {
+                imagePathInfo.Create();
+            }
+
+            // Delete the previous image
+            if (item.Name != model.Name)
+            {
+                var oldFileName = new FileInfo($"{imagePathInfo}/{item.Name}.png");
+
+                if (oldFileName.Exists)
+                {
+                    File.Delete(oldFileName.FullName);
+                }
+            }
+
+            // Determine the image name
+            var fileName = new FileInfo($"{imagePathInfo}/{model.Name}.png");
+
+            // Write the file content
+            await File.WriteAllBytesAsync(fileName.FullName, model.ImageContent);
+
+            // Modify the content of the item
+            item.DisplayName = model.DisplayName;
+            item.Name = model.Name;
+            item.RepairWith = model.RepairWith;
+            item.EnchantCategories = model.EnchantCategories;
+            item.MaxDurability = model.MaxDurability;
+            item.StackSize = model.StackSize;
+            item.UpdatedDate = DateTime.Now;
+
+            // Save the data
+            await _localStorage.SetItemAsync("data", currentData);
+        }
     }
 }
