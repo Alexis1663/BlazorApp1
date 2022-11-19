@@ -63,11 +63,6 @@ namespace BlazorApp.Services
             await _localStorage.SetItemAsync("data", currentData);
         }
 
-        public Task Add(ItemModel model)
-        {
-            throw new NotImplementedException();
-        }
-
         public async Task<int> Count()
         {
             return (await _localStorage.GetItemAsync<Item[]>("data")).Length;
@@ -87,11 +82,6 @@ namespace BlazorApp.Services
             }
 
             return (await _localStorage.GetItemAsync<Item[]>("data")).Skip((currentPage - 1) * pageSize).Take(pageSize).ToList();
-        }
-
-        Task<List<Item>> IDataService.List(int currentPage, int pageSize)
-        {
-            throw new NotImplementedException();
         }
     }
 }

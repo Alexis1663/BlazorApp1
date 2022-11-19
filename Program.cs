@@ -1,4 +1,5 @@
 using BlazorApp.Data;
+using BlazorApp.Services;
 using Blazored.LocalStorage;
 using Blazorise;
 using Blazorise.Bootstrap;
@@ -17,6 +18,9 @@ builder.Services
    .AddBlazorise()
    .AddBootstrapProviders()
    .AddFontAwesomeIcons();
+
+
+builder.Services.AddScoped<IDataService, DataLocalService>();
 
 builder.Services.AddBlazoredLocalStorage();
 
