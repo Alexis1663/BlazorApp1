@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "displayname": "Furnafix",
+    "name": "furnafix",
+    "stacksize": 36,
+    "maxdurability": 32,
+    "enchantcategories": [ "enchantcategories" ],
+    "repairwith": [ "repairwith" ],
+    "createddate": "2019-02-16",
+    "updateddate": null
+  },
+  {
+    "id": 2,
+    "displayname": "Deminimum",
+    "name": "deminimum",
+    "stacksize": 49,
+    "maxdurability": 46,
+    "enchantcategories": [ "enchantcategories" ],
+    "repairwith": [ "repairwith" ],
+    "createddate": "2020-06-14",
+    "updateddate": null
+  }
+]
