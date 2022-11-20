@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\Blazor\\BlazorApp\\Components\\Crafting.razor.js",
+      "PackagePath": "staticwebassets\\Components\\Crafting.razor.js"
+    },
+    {
       "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\Blazor\\BlazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorApp.bundle.scp.css"
     },
@@ -63,6 +67,14 @@
     {
       "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\Blazor\\BlazorApp\\wwwroot\\images\\default.png",
       "PackagePath": "staticwebassets\\images\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\Blazor\\BlazorApp\\wwwroot\\images\\iueruer.png",
+      "PackagePath": "staticwebassets\\images\\iueruer.png"
+    },
+    {
+      "Id": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\Blazor\\BlazorApp\\wwwroot\\images\\uttyj.png",
+      "PackagePath": "staticwebassets\\images\\uttyj.png"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",

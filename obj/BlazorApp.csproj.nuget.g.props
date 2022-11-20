@@ -18,5 +18,6 @@
     <Import Project="$(NuGetPackageRoot)blazorise.datagrid\1.1.2\buildTransitive\Blazorise.DataGrid.props" Condition="Exists('$(NuGetPackageRoot)blazorise.datagrid\1.1.2\buildTransitive\Blazorise.DataGrid.props')" />
     <Import Project="$(NuGetPackageRoot)blazorise.bootstrap5\1.1.2\buildTransitive\Blazorise.Bootstrap5.props" Condition="Exists('$(NuGetPackageRoot)blazorise.bootstrap5\1.1.2\buildTransitive\Blazorise.Bootstrap5.props')" />
     <Import Project="$(NuGetPackageRoot)blazorise.bootstrap\1.1.2\buildTransitive\Blazorise.Bootstrap.props" Condition="Exists('$(NuGetPackageRoot)blazorise.bootstrap\1.1.2\buildTransitive\Blazorise.Bootstrap.props')" />
+    <Import Project="$(NuGetPackageRoot)blazored.modal\7.1.0\buildTransitive\Blazored.Modal.props" Condition="Exists('$(NuGetPackageRoot)blazored.modal\7.1.0\buildTransitive\Blazored.Modal.props')" />
   </ImportGroup>
 </Project>

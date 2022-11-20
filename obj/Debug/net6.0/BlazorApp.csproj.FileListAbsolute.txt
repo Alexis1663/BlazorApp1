@@ -156,3 +156,12 @@ C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\obj\Debug\net6.0\scopedcss\
 C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\obj\Debug\net6.0\BlazorApp.csproj.CopyComplete
 C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\obj\Debug\net6.0\BlazorApp.genruntimeconfig.cache
 C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\obj\Debug\net6.0\ref\BlazorApp.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\bin\Debug\net6.0\Blazored.Modal.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\obj\Debug\net6.0\BlazorApp.Resources.Pages.List.resources
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\obj\Debug\net6.0\BlazorApp.Resources.Pages.List.fr-FR.resources
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\obj\Debug\net6.0\BlazorApp.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\bin\Debug\net6.0\fr-FR\BlazorApp.resources.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\obj\Debug\net6.0\fr-FR\BlazorApp.resources.dll
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\obj\Debug\net6.0\scopedcss\Components\Crafting.razor.rz.scp.css
+C:\Users\alexi\OneDrive\Bureau\Code\Blazor\BlazorApp\obj\Debug\net6.0\scopedcss\Components\CraftingItem.razor.rz.scp.css

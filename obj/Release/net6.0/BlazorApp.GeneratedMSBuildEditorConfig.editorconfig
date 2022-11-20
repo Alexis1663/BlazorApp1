@@ -20,6 +20,18 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/BlazorApp/Components/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/BlazorApp/Components/ShowItems.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaG93SXRlbXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/BlazorApp/Modals/DeleteConfirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kYWxzXERlbGV0ZUNvbmZpcm1hdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/alexi/OneDrive/Bureau/Code/Blazor/BlazorApp/Pages/Add.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,12 +60,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/BlazorApp/Pages/RouteParameter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm91dGVQYXJhbWV0ZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/BlazorApp/Pages/User.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlci5yYXpvcg==
+[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/BlazorApp/Shared/CultureSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEN1bHR1cmVTZWxlY3Rvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/alexi/OneDrive/Bureau/Code/Blazor/BlazorApp/Shared/DoctorWhoLayout.razor]
@@ -67,6 +75,14 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/alexi/OneDrive/Bureau/Code/Blazor/BlazorApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/BlazorApp/Components/Crafting.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDcmFmdGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-0c7vkjpwvp
+
+[C:/Users/alexi/OneDrive/Bureau/Code/Blazor/BlazorApp/Components/CraftingItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDcmFmdGluZ0l0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-syyk20fth2
 
 [C:/Users/alexi/OneDrive/Bureau/Code/Blazor/BlazorApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=

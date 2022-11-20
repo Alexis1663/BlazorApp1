@@ -1,4 +1,5 @@
-﻿using BlazorApp.Models;
+﻿using BlazorApp.Components;
+using BlazorApp.Models;
 using Blazored.LocalStorage;
 using Microsoft.AspNetCore.Components;
 
@@ -152,6 +153,48 @@ namespace BlazorApp.Services
 
             // Save the data
             await _localStorage.SetItemAsync("data", currentData);
+        }
+
+        public async Task Delete(int id)
+        {
+            // Get the current data
+            var currentData = await _localStorage.GetItemAsync<List<Item>>("data");
+
+            // Get the item int the list
+            var item = currentData.FirstOrDefault(w => w.Id == id);
+
+            // Delete item in
+            currentData.Remove(item);
+
+            // Delete the image
+            var imagePathInfo = new DirectoryInfo($"{_webHostEnvironment.WebRootPath}/images");
+            var fileName = new FileInfo($"{imagePathInfo}/{item.Name}.png");
+
+            if (fileName.Exists)
+            {
+                File.Delete(fileName.FullName);
+            }
+
+            // Save the data
+            await _localStorage.SetItemAsync("data", currentData);
+        }
+
+        public Task<List<CraftingRecipe>> GetRecipes()
+        {
+            var items = new List<CraftingRecipe>
+            {
+                new CraftingRecipe
+                {
+                    Give = new Item { DisplayName = "Diamond", Name = "diamond" },
+                    Have = new List<List<string>>
+                    {
+                        new List<string> { "dirt", "dirt", "dirt" },
+                        new List<string> { "dirt", null, "dirt" },
+                        new List<string> { "dirt", "dirt", "dirt" }
+                    }
+                }
+            };
+            return Task.FromResult(items);
         }
     }
 }

@@ -1,3 +1,33 @@
+@import '_content/Blazored.Modal/Blazored.Modal.bundle.scp.css';
+
+/* _content/BlazorApp/Components/Crafting.razor.rz.scp.css */
+.css-grid[b-0c7vkjpwvp] {
+    grid-template-columns: repeat(4,minmax(0,1fr));
+    gap: 10px;
+    display: grid;
+    width: 286px;
+}
+
+.css-recipe[b-0c7vkjpwvp] {
+    grid-template-columns: repeat(3,minmax(0,1fr));
+    gap: 10px;
+    display: grid;
+    width: 212px;
+}
+
+.actions[b-0c7vkjpwvp] {
+    border: 1px solid black;
+    height: 250px;
+    overflow: scroll;
+}
+
+/* _content/BlazorApp/Components/CraftingItem.razor.rz.scp.css */
+.item[b-syyk20fth2] {
+    width: 64px;
+    height: 64px;
+    border: 1px solid;
+    overflow: hidden;
+}
 /* _content/BlazorApp/Shared/MainLayout.razor.rz.scp.css */
 .page[b-3dsd3z3yec] {
     position: relative;

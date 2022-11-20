@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ddQ7BHf9ReqrY1jSDncQD6j7hvQTPT6i0SumpZWbWKauM+r7i9KoNuW6UrsI5y+ItNDXS3+MoPixBF12+jJsaA==",
+  "dgSpecHash": "6iHptKSiD6s+2SmAxWIwXuvpYFXRNhi0xC3a99IOrhhbNZy3nuriNxyrb4lEvPvpm9ibkB5miTOy9E7Jr9yRNw==",
   "success": true,
   "projectFilePath": "C:\\Users\\alexi\\OneDrive\\Bureau\\Code\\Blazor\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexi\\.nuget\\packages\\blazored.localstorage\\4.2.0\\blazored.localstorage.4.2.0.nupkg.sha512",
+    "C:\\Users\\alexi\\.nuget\\packages\\blazored.modal\\7.1.0\\blazored.modal.7.1.0.nupkg.sha512",
     "C:\\Users\\alexi\\.nuget\\packages\\blazorise\\1.1.2\\blazorise.1.1.2.nupkg.sha512",
     "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap\\1.1.2\\blazorise.bootstrap.1.1.2.nupkg.sha512",
     "C:\\Users\\alexi\\.nuget\\packages\\blazorise.bootstrap5\\1.1.2\\blazorise.bootstrap5.1.1.2.nupkg.sha512",
@@ -22,6 +23,7 @@
     "C:\\Users\\alexi\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\alexi\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\alexi\\.nuget\\packages\\microsoft.jsinterop\\6.0.9\\microsoft.jsinterop.6.0.9.nupkg.sha512",
+    "C:\\Users\\alexi\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.3\\microsoft.jsinterop.webassembly.6.0.3.nupkg.sha512",
     "C:\\Users\\alexi\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\alexi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
